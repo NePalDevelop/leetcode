@@ -1,4 +1,4 @@
-﻿namespace Solutions
+﻿namespace leetcode
 {
     static class LongestString
     {
