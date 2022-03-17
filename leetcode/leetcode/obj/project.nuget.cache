@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOJ//sKFJilNfSfEc5QmVfUGOvrZDZ8cIBpzQBj3vg6UChmFIJOT911sPklm8XgO6RYBMKmEwWDaWjSspqdzjg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\repos\\leetcode\\leetcode\\leetcode\\leetcode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nepal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
