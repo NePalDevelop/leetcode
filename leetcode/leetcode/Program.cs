@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Linq;
-using leetcode.Problems;
 
 namespace leetcode
 
@@ -57,8 +56,9 @@ namespace leetcode
             //}
 
             var s = "LVIII";
+            var num = 1994;
 
-            Console.WriteLine(RomanToInteger.RomanToInt(s));
+            Console.WriteLine(InegerToRoman.IntToRoman(num));
 
         }
 
