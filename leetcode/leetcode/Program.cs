@@ -55,10 +55,10 @@ namespace leetcode
 
             //}
 
-            var s = "LVIII";
+            var s = " ";
             var num = 1994;
 
-            Console.WriteLine(InegerToRoman.IntToRoman(num));
+            Console.WriteLine(AToI.MyAtoi(s));
 
         }
 
