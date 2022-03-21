@@ -55,10 +55,10 @@ namespace leetcode
 
             //}
 
-            var s = " ";
+            var s = "ccc";
             var num = 1994;
 
-            Console.WriteLine(AToI.MyAtoi(s));
+            Console.WriteLine(LongestPalindromeSolution.LongestPalindrome(s));
 
         }
 
